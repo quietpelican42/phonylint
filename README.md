@@ -68,7 +68,7 @@ the same name and are correctly phony regardless.
 ## Installation
 
 ```sh
-go install github.com/__GH_OWNER__/phonylint/cmd/phonylint@latest
+go install github.com/quietpelican42/phonylint/cmd/phonylint@latest
 ```
 
 Or build from source: `go build ./cmd/phonylint`. Requires Go 1.23+. No

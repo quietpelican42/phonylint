@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/__GH_OWNER__/phonylint/internal/rules"
+	"github.com/quietpelican42/phonylint/internal/rules"
 )
 
 // Write renders findings in format ("text", "json", or "github") to w.

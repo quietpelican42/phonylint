@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/__GH_OWNER__/phonylint/internal/mkparse"
+	"github.com/quietpelican42/phonylint/internal/mkparse"
 )
 
 func hasFinding(findings []Finding, rule, target string) bool {

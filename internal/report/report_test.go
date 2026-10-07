@@ -6,7 +6,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/__GH_OWNER__/phonylint/internal/rules"
+	"github.com/quietpelican42/phonylint/internal/rules"
 )
 
 func sample() []rules.Finding {

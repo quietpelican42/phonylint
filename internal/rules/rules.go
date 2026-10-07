@@ -11,7 +11,7 @@ import (
 	"path/filepath"
 	"sort"
 
-	"github.com/__GH_OWNER__/phonylint/internal/mkparse"
+	"github.com/quietpelican42/phonylint/internal/mkparse"
 )
 
 // Severity levels. Exit-code and formatting logic key off these.

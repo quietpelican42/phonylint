@@ -1,3 +1,3 @@
-module github.com/__GH_OWNER__/phonylint
+module github.com/quietpelican42/phonylint
 
 go 1.23

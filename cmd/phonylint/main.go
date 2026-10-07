@@ -17,9 +17,9 @@ import (
 	"strings"
 	"time"
 
-	"github.com/__GH_OWNER__/phonylint/internal/mkparse"
-	"github.com/__GH_OWNER__/phonylint/internal/report"
-	"github.com/__GH_OWNER__/phonylint/internal/rules"
+	"github.com/quietpelican42/phonylint/internal/mkparse"
+	"github.com/quietpelican42/phonylint/internal/report"
+	"github.com/quietpelican42/phonylint/internal/rules"
 )
 
 type fileFlags []string
